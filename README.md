@@ -21,7 +21,7 @@
 - :technologist: I love using Programming tools as a solution for every `Problem`.
 - :computer: I am a current student programmer at `UAB`, `CEPI-BASE`, `EC-Council`.
 - :student: I’m currently learning `Computer Engineering`, `Cybersecurity `, `Trading` and `Maths`.
-- :nerd_face: Always `trying to learn new methos to make life easier`.
+- :nerd_face: Always `trying to learn new methods to make life easier`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY Curriculum Vitae 'CV'](https://drive.google.com/file/d/1mjQsSbslTPIyNiC8q0s3TlEPsL826ZQf/view?usp=share_link).
 <br>
 
